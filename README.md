@@ -1,4 +1,5 @@
 # DispatcherAI
+<Image src="/assets/image 17.png" alt="DispatcherAI Header" width={1200} height={400} />
 
 ## Summary
 
@@ -23,7 +24,7 @@ DispatcherAI uses artificial intelligence not as a novelty, but as infrastructur
 
 ## System Architecture
 
-
+<Image src="/assets/Frame 28 (2).png" alt="DispatcherAI Header" width={1200} height={400} />
 
 DispatcherAI is a real-time, multi-layered platform built on the foundation of low-latency APIs, serverless compute, and distributed AI inference. Calls are transcribed, analyzed, prioritized, and surfaced to responders—all within seconds.
 
