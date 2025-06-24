@@ -90,7 +90,7 @@ Version control was maintained via Git and hosted on [GitHub](https://github.com
 
 ## Call Simulation Scripts
 
-To test DispatcherAI’s flow, dial **+1 (408) 617-9557** and use any of the following scripts:
+To test DispatcherAI’s flow, use any of the following scripts:
 
 ### Armed Robbery
 “Hello, my name is John. I'm on 2nd Street and I just witnessed an armed robbery. The suspect is still nearby. Please dispatch help immediately.”
