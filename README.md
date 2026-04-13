@@ -102,7 +102,7 @@ To test DispatcherAI’s flow, use any of the following scripts:
 “My name is Noah. I'm at 600 Carmel Ave. I heard a gunshot nearby. I'm safe, but someone could be in danger. Please respond quickly.”
 
 ### Car Accident
-“Lucas here. I’m at 501 4th Ave. Someone just crashed into my car as I was exiting the garage. My child is with me and I’m unable to move my legs. I need help now.”
+“Lucas here. I’m at 501 4th Ave. Someone just crashed into my car as I was exiting the garage. My child is with me and I’m unable to move my legs. I need severe help now.”
 
 ## The Road Ahead
 
